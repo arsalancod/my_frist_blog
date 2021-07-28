@@ -1,0 +1,15 @@
+header {
+    font-size: 50px;
+    border: solid black;
+    background-color: burlywood;
+}
+
+body {
+    background-color: rgb(161, 187, 187);
+}
+
+.col-sm-12 {
+    margin-top: 20px;
+    width: 400px;
+    float: right;
+}
